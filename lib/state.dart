@@ -1,0 +1,4 @@
+enum Steta {
+  menu,
+  playing,
+}
